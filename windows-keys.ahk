@@ -7,5 +7,5 @@ SetTitleMatchMode, Regex
 ; Abre powershell a la ubuntu hotkey
 ^!t::
 	SetWorkingDir, %USERPROFILE%
-	Run C:\Program Files\ConEmu\ConEmu64.exe
+	Run powershell
 	return
