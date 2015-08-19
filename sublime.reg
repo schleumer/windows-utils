@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\sublime]
+@="Adicionar diretório no &Sublime Text"
+"Icon"="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\",0"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\sublime\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" -a \"%V\""
+
+[HKEY_CLASSES_ROOT\Directory\shell\sublime]
+@="Adicionar diretório no &Sublime Text"
+"Icon"="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\",0"
+
+[HKEY_CLASSES_ROOT\Directory\shell\sublime\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" -a \"%1\""

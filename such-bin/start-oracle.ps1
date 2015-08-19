@@ -1,0 +1,2 @@
+Start-Service OracleServiceXE
+Start-Service OracleXETNSListener

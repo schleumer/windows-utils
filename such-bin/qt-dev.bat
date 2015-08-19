@@ -1,0 +1,1 @@
+SET PATH=C:\Qt\Tools\mingw482_32\bin;C:\Qt\5.3\msvc2013_64\bin;%PATH%

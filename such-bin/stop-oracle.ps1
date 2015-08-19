@@ -1,0 +1,2 @@
+Stop-Service OracleServiceXE
+Stop-Service OracleXETNSListener
